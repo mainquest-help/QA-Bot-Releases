@@ -1,6 +1,8 @@
 # QA 봇 툴 — 설치 파일
 
-**받는 곳:** [Releases ▸ Latest](https://github.com/mainquest-help/QA-Bot-Releases/releases/latest) → **Assets** → `BlackHammer.QaBot-win-Setup.exe` 하나만 받아 더블클릭.
+## ⬇ [설치 파일 바로 받기 (BlackHammer.QaBot-win-Setup.exe)](https://github.com/mainquest-help/QA-Bot-Releases/releases/latest/download/BlackHammer.QaBot-win-Setup.exe)
+
+위 링크를 누르면 최신 판이 바로 받아집니다. 받은 파일을 더블클릭하면 설치 끝.
 
 - «Windows의 PC 보호»가 뜨면 **추가 정보 → 실행** (사내 프로그램이라 서명이 없음).
 - 설치 뒤에는 켤 때마다 새 판을 확인해 받아 두고, 닫으면 적용합니다(자동 업데이트).
